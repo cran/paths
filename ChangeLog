@@ -1,0 +1,3 @@
+version     date      description
+0.1.0       05/03/20  First version on CRAN
+0.1.1       06/17/21  Fixed a bug with summary.paths()
